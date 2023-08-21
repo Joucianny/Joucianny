@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joucianny
-- 👀 I’m interested in Testes Automatizados, Analise de Requisitos, QA
+- 👀 I’m interested in Product Owner, Agilidade
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Product Owner, Agilista, Analista de Negócios
 - 📫 How to reach me: WhatsApp(61) 9.9142-9803
